@@ -440,15 +440,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Nakflixtv'),
-            InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/Nakflixtv')
+            InlineKeyboardButton('🏝️ᴜᴘᴅᴀᴛᴇs🏝️', url='https://t.me/Nakflixtv'),
+            InlineKeyboardButton('🕊️ᴍᴏᴠɪᴇs🕊️', url='https://t.me/Nakflixtv')
             ],[
-            InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/Nakflixtv'),
-            InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'),
+            InlineKeyboardButton('😇sᴜᴘᴘᴏʀᴛ😇', url='https://t.me/Nakflixtv'),
+            InlineKeyboardButton('♻️ʀᴇᴘᴏ♻️', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'),
             ],[
-            InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
+            InlineKeyboardButton('💘ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs💘', callback_data='about'),
             ],[
-            InlineKeyboardButton('🔐 ᴄʟᴏsᴇ 🔐', callback_data='close_data')
+            InlineKeyboardButton('🎯ᴄʟᴏsᴇ🎯', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
