@@ -48,7 +48,7 @@ async def start(client, message):
             InlineKeyboardButton('💥ᴍᴏᴠɪᴇs♥️', url='https://t.me/Nakflixplus'),
             ],[
             InlineKeyboardButton('💞ʏᴏᴜᴛᴜʙᴇ💞', url='https://youtube.com/c/Nakflix'),
-            InlineKeyboardButton('👩‍💻  ✨', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'),
+            InlineKeyboardButton('👩‍💻 ɪɴsᴛᴀɢʀᴀᴍ ✨', url=''),
             ],[
             InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
             ],[
