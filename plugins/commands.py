@@ -44,11 +44,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
             ],[
-            InlineKeyboardButton('🤖sᴇʀɪᴇs🤖', url='https://t.me/Nakflixtv'),
-            InlineKeyboardButton('💥ᴍᴏᴠɪᴇs♥️', url='https://t.me/Nakflixplus'),
+            InlineKeyboardButton('🏝️sᴇʀɪᴇs🏝️', url='https://t.me/Nakflixtv'),
+            InlineKeyboardButton('🌴ᴍᴏᴠɪᴇs🌴', url='https://t.me/Nakflixplus'),
             ],[
             InlineKeyboardButton('💞ʏᴏᴜᴛᴜʙᴇ💞', url='https://youtube.com/c/Nakflix'),
-            InlineKeyboardButton('👩‍💻 ɪɴsᴛᴀɢʀᴀᴍ ✨', url=''),
+            InlineKeyboardButton('📱ɪɴsᴛᴀɢʀᴀᴍ📱', url='https://instagram.com/NakflixTv'),
             ],[
             InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
             ],[
@@ -94,11 +94,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
             ],[
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Tamilan_BotsZ'),
-            InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+qswNBTRWlv9lNjQ1'),
+            InlineKeyboardButton('🏝️sᴇʀɪᴇs🏝️', url='https://t.me/Nakflixtv'),
+            InlineKeyboardButton('🌴ᴍᴏᴠɪᴇs🌴', url='https://t.me/Nakflixplus'),
             ],[
-            InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/TamilanBotsZ_Support'),
-            InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'),
+            InlineKeyboardButton('💞ʏᴏᴜᴛᴜʙᴇ💞', url='https://youtube.com/c/Nakflix'),
+            InlineKeyboardButton('📱ɪɴsᴛᴀɢʀᴀᴍ📱', url='https://instagram.com/NakflixTv'),
             ],[
             InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
             ],[
