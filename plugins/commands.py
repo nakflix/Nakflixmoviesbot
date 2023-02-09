@@ -44,11 +44,11 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
             ],[
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Nakflixtv'),
-            InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/Nakflixplus'),
+            InlineKeyboardButton('🤖sᴇʀɪᴇs🤖', url='https://t.me/Nakflixtv'),
+            InlineKeyboardButton('💥ᴍᴏᴠɪᴇs♥️', url='https://t.me/Nakflixplus'),
             ],[
-            InlineKeyboardButton('💞  💞', url='https://t.me/Nakflixplus'),
-            InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'),
+            InlineKeyboardButton('💞ʏᴏᴜᴛᴜʙᴇ💞', url='https://youtube.com/c/Nakflix'),
+            InlineKeyboardButton('👩‍💻  ✨', url='https://GitHub.Com/TamilanBotsZ/AwesomeFilterPro'),
             ],[
             InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
             ],[
