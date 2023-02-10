@@ -106,12 +106,12 @@ async def next_page(bot, query):
         ]
     btn.insert(0, 
         [
-            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/Nakflixplus/75664')
+            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/c/1594724293/75664')
         ]
     )
     btn.insert(1, 
         [
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Nakflixplus'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+MfpcWgQhcMRiMDM8'),
             InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ', url='https://t.me/Nak_ke')
         ]
     )
@@ -440,8 +440,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('🏝️ᴜᴘᴅᴀᴛᴇs🏝️', url='https://t.me/Nakflixtv'),
-            InlineKeyboardButton('🕊️ᴍᴏᴠɪᴇs🕊️', url='https://t.me/Nakflixtv')
+            InlineKeyboardButton('🏝️ᴜᴘᴅᴀᴛᴇs🏝️', url='https://t.me/nakflixtv'),
+            InlineKeyboardButton('🕊️ᴍᴏᴠɪᴇs🕊️', url='https://t.me/+MfpcWgQhcMRiMDM8')
             ],[
             InlineKeyboardButton('😇sᴜᴘᴘᴏʀᴛ😇', url='https://t.me/Nakflixtv'),
             InlineKeyboardButton('♻️ʀᴇᴘᴏ♻️', url='https://GitHub.Com/nakflix/UPDATE'),
@@ -712,7 +712,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
     btn.insert(0, 
         [
-            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/Nakflixplus/75664')
+            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/c/1594724293/75664')
         ]
     )
     if offset != "":
