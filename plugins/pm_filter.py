@@ -106,7 +106,7 @@ async def next_page(bot, query):
         ]
     btn.insert(0, 
         [
-            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/c/1594724293/75664')
+            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/+7_r5PXDKogoxMzU8')
         ]
     )
     btn.insert(1, 
@@ -444,7 +444,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🕊️ᴍᴏᴠɪᴇs🕊️', url='https://t.me/+MfpcWgQhcMRiMDM8')
             ],[
             InlineKeyboardButton('😇sᴜᴘᴘᴏʀᴛ😇', url='https://t.me/Nakflixtv'),
-            InlineKeyboardButton('♻️ʀᴇᴘᴏ♻️', url='https://GitHub.Com/nakflix/UPDATE'),
+            InlineKeyboardButton('♻️ʀᴇᴘᴏ♻️', url='https://t.me/nakflixtv'),
             ],[
             InlineKeyboardButton('💘ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs💘', callback_data='about'),
             ],[
@@ -712,7 +712,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
     btn.insert(0, 
         [
-            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/c/1594724293/75664')
+            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/+7_r5PXDKogoxMzU8')
         ]
     )
     if offset != "":
