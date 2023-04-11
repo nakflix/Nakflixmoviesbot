@@ -14,7 +14,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '14298205'))
 API_HASH = environ.get('API_HASH', '28df6d84da76d8606bf5f0e71ecfb62c')
-BOT_TOKEN = environ.get('BOT_TOKEN', '5932921073:AAGf_Xab4kCftR5xsrPvorgbEFNM-6KMCQc')
+BOT_TOKEN = environ.get('BOT_TOKEN', '5932921073:AAHMWmcDYFSY29zCqYklgrdBdJnq32dvsp0')
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', '⚜️⚜️ᴊᴏɪɴ @NAKFLIXTV ⚜️⚜️'))
