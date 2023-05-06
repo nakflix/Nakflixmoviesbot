@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Aᴡᴇsᴏᴍᴇ+Fɪʟᴛᴇʀ+Pʀᴏ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+ɴᴀᴋғʟɪx ᵗᵛ—͟͟͞͞𖣘+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Lᴏᴠᴇ+♥️+!!!!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Aᴡᴇsᴏᴍᴇ+Fɪʟᴛᴇʀ+Pʀᴏ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+ɴᴀᴋғʟɪx+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Lᴏᴠᴇ+♥️+!!!!)</p>
 <p align="center">
   <img src="https://graph.org/file/f3c1d9f76aa1f08bceaf5.jpg" alt="NAKFLIX LOGO">
   </p>
