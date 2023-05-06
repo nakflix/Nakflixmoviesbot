@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Aᴡᴇsᴏᴍᴇ+Fɪʟᴛᴇʀ+Pʀᴏ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+TᴀᴍɪʟᴀɴBᴏᴛsZ+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Aᴡᴇsᴏᴍᴇ+Fɪʟᴛᴇʀ+Pʀᴏ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+ɴᴀᴋғʟɪx ᵗᵛ—͟͟͞͞𖣘+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Lᴏᴠᴇ+♥️+!!!!)</p>
 <p align="center">
-  <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="Awesome Filter Logo">
+  <img src="https://graph.org/file/f3c1d9f76aa1f08bceaf5.jpg" alt="NAKFLIX LOGO">
   </p>
   <h1 align="center">
     <b>AᴡᴇsᴏᴍᴇFɪʟᴛᴇʀ Pʀᴏ</b>
@@ -43,11 +43,13 @@
 
 ## Mᴜsᴛ Dᴏ Bᴇғᴏʀᴇ Eᴅɪᴛ Tʜɪs Rᴇᴘᴏ 👇
 
- - 💗 Sᴛᴀʀ Tʜɪs Rᴇᴘᴏ 🌟 - Sᴜᴘᴘᴏʀᴛ TᴀᴍɪʟᴀɴBᴏᴛsZ Cᴏᴍᴍᴜɴɪᴛʏ 💥 -
+ - 💗 Sᴛᴀʀ Tʜɪs Rᴇᴘᴏ 🌟 - Sᴜᴘᴘᴏʀᴛ ɴᴀᴋғʟɪx ᵗᵛ—͟͟͞͞𖣘 Cᴏᴍᴍᴜɴɪᴛʏ 💥 -
 
-## Mᴜsᴛ Cʜᴀɴɢᴇ Tʜɪs Lɪɴᴇ
+ɴᴀᴋғʟɪx ᵗᵛ—͟͟͞͞𖣘
 
-Cʜᴀɴɢᴇ Uʀ Lɪɴᴋ Sʜᴏʀᴛᴇɴᴇʀ Sɪᴛᴇ Oʀ Nᴏᴛ Wᴏʀᴋ Pʀᴏᴘᴇʀʟʏ :- https://github.com/TamilanBotsZ/AwesomeFilterPro/blob/94abaa30297d1a040e01eea471c54a00a2fab3e8/utils.py#L386
+ɴᴀᴋғʟɪx ᵖˡᵘˢ—͟͟͞͞𖣘
+
+
 
 ## Dᴇᴘᴏʟʏ
 Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
@@ -55,7 +57,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Hᴇʀᴏᴋᴜ {ᴘᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TamilanBotsZ/AwesomeFilterPro">
+<a href="https://heroku.com/deploy?template=https://github.com/nakflix/Nakflixmoviesbot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
   </a>
   </p>
@@ -73,7 +75,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ғʀᴇᴇ}</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TamilanBotsZ/AwesomeFilterPro&branch=main">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/nakflix/Nakflixmoviesbot&branch=main">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
   </a>
   </p>
@@ -82,7 +84,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Oᴋᴛᴇᴛᴏ {ᴘᴀɪᴅ}</summary>
 <p>
 <br>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/TamilanBotsZ/AwesomeFilterPro">
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/nakflix/Nakflixmoviesbot">
   <img src="https://okteto.com/develop-okteto.svg" alt="deploy-to-okteto">
   </a>
   </p>
@@ -90,7 +92,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
 <p>
 <br>
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilanBotsZ%2FAwesomeFilterPro">
+<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fnakflix%2Fnakflixmoviesbot">
   <img src="https://railway.app/button.svg" alt="deploy-to-railway">
   </a>
   </p>
@@ -99,7 +101,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <p>
 You must have the latest version of <a href="golang.org">go</a> installed first
 <pre>
-git clone https://github.com/TamilanBotsZ/AwesomeFilterPro
+git clone https://github.com/nakflix/Nakflixmoviesbot
 cd AwesomeFilterPro
 go build .
 ./AwesomeFilterPro
@@ -124,7 +126,7 @@ link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
 
 ## Cʀᴇᴅɪᴛs
-Rᴇᴘᴏ Oᴡɴᴇʀ/Cʀᴇᴀᴛᴏʀ *[![TᴀᴍɪʟᴀɴBᴏᴛsZ-Mᴇ](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
+
 
 ## Tʜᴀɴᴋs Tᴏ 
  - Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
