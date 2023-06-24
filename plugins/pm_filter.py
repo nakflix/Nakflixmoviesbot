@@ -106,12 +106,12 @@ async def next_page(bot, query):
         ]
     btn.insert(0, 
         [
-            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/+7_r5PXDKogoxMzU8')
+            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/+bUY_dCvgwdY5NjBk')
         ]
     )
     btn.insert(1, 
         [
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+MfpcWgQhcMRiMDM8'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+r9GjnKf7fnEzOWJk'),
             InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ', url='https://t.me/Nak_ke')
         ]
     )
@@ -441,7 +441,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "start":
         buttons = [[
             InlineKeyboardButton('🏝️ᴜᴘᴅᴀᴛᴇs🏝️', url='https://t.me/nakflixtv'),
-            InlineKeyboardButton('🕊️ᴍᴏᴠɪᴇs🕊️', url='https://t.me/+MfpcWgQhcMRiMDM8')
+            InlineKeyboardButton('🕊️ᴍᴏᴠɪᴇs🕊️', url='https://t.me/+r9GjnKf7fnEzOWJk')
             ],[
             InlineKeyboardButton('😇sᴜᴘᴘᴏʀᴛ😇', url='https://t.me/Nakflixtv'),
             InlineKeyboardButton('♻️ʀᴇᴘᴏ♻️', url='https://t.me/nakflixtv'),
@@ -479,7 +479,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🙄 ᴏᴡɴᴇʀ 🙄', url='https://t.me/Nak_ke'),
             InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/Nakflixtv'),
         ],[
-            InlineKeyboardButton('👩‍💻 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 👩‍💻', url='https://GitHub.Com/nakflix/UPDATE'), #Please Change your bot username
+            InlineKeyboardButton('👩‍💻 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 👩‍💻', url='https://youtube.com/c/Nakflix'), #Please Change your bot username
             InlineKeyboardButton('😍 sʜᴀʀᴇ ᴍᴇ 😍', url=f'https://t.me/share/url?url=t.me/{temp.U_NAME}'),
         ],[
             InlineKeyboardButton('🔐 ᴄʟᴏsᴇ 🔐', callback_data='close_data')
@@ -712,7 +712,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
     btn.insert(0, 
         [
-            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/+7_r5PXDKogoxMzU8')
+            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/+bUY_dCvgwdY5NjBk')
         ]
     )
     if offset != "":
