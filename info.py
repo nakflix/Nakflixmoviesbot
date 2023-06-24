@@ -14,7 +14,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '14298205'))
 API_HASH = environ.get('API_HASH', '28df6d84da76d8606bf5f0e71ecfb62c')
-BOT_TOKEN = environ.get('BOT_TOKEN', '5932921073:AAFfV7MyypwC384x3kOrTDMNbhd1A0KgrGQ')
+BOT_TOKEN = environ.get('BOT_TOKEN', '5932921073:AAEjPOOk2FPhxz6QayY7KrFB5DieDVG3cNo')
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', '⚜️⚜️ᴊᴏɪɴ @NAKFLIXTV ⚜️⚜️'))
@@ -65,7 +65,7 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 
 
-AUTO_DELETE_SECONDS = int(environ.get('AUTO_DELETE_SECONDS', 300))
+AUTO_DELETE_SECONDS = int(environ.get('AUTO_DELETE_SECONDS', 500))
 AUTO_DELETE = environ.get('AUTO_DELETE', True)
 if AUTO_DELETE == "True":
     AUTO_DELETE = True
